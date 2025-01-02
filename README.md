@@ -2,7 +2,7 @@
   <h2> Hi 👋 I'm Aya Mostafa.</h2>
   <div id="badges">
         <a href="https://ayamostafa.com/">
-      <img src="https://img.shields.io/badge/ayamostafa.com-black?style=for-the-badge&logo=protodotio&logoColor=white" alt="Mysite Badge"/>
+      <img src="https://img.shields.io/badge/ayamostafa.com-blue?style=for-the-badge&logo=protodotio&logoColor=white" alt="Mysite Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/aya-mostafa-b66940ba/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
