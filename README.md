@@ -14,7 +14,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Principal Front-end Engineer at Banque Misr and Writer from Egypt.
+I am a principal front-end engineer at Banque Misr and writer from Egypt.
 - Initiative, motivation, commitment and professionalism are my ultimate values to reach out the best and elegant solutions.
 
 #### :hammer_and_wrench: Languages and Tools :
